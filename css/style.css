@@ -1,0 +1,181 @@
+input
+{
+width:80px;
+height:30px;
+}
+nav li 
+{
+	display:inline;
+	text-decoration:none;
+}
+
+footer li
+{
+	display:inline;
+	text-decoration:none;
+}
+	
+footer ul
+{
+	margin-bottom:100px;
+}
+
+footer	
+{
+	background-color:grey;
+	padding-bottom:200px;
+	text-align:center;
+}
+
+.topicon
+{
+	position: fixed;
+}
+
+.userform
+{
+	margin:0px 380px 0px;
+	background-color:grey;
+}
+
+
+.toplogo pull-right h1
+{
+	text-decoration:sans-serif;
+	padding-bottom:500px;
+}
+	
+.topicon .glyphicon .p
+{
+	color:skyblue;
+}
+
+.topic{
+	background-image:url("images/hd_8.jpg");
+	background-repeat:no-repeat;
+	background-size:100%;
+	padding-bottom:500px;
+}
+.summer
+{
+	background-image:url("images/holiday_3.jpg");
+	background-repeat:no-repeat;
+	background-size:100%;
+	padding-bottom:500px;
+	color:brown;
+}
+.topic h1{
+	font-size:50px;
+	letter-spacing:2px;
+	text-align:center;
+	color:white;
+}
+.topic p{
+	font-size:50px;
+	letter-spacing:2px;
+	text-align:center;
+	color:white;
+}
+
+.layer0
+{
+	background-color:salmon;
+	background-repeat:no-repeat;
+	padding-bottom:90px;
+}	
+
+.sam
+{
+	background-color:salmon;
+}
+.layer0 img
+{
+	border-radius:200px;
+}
+.layer1
+{
+	background-size:100%;
+	background-color:grey;
+	padding-bottom:150px;
+	background-repeat:no-repeat;
+}
+.icons1
+{
+	border-radius:100px;
+	margin-top:50px;
+	padding-left:70px;
+	background-color:lavender;
+}
+.icons2
+{
+	border-radius:100px;
+	margin-top:50px;
+	padding-left:70px;
+	background-color:brown;
+}
+.icons3
+{
+	border-radius:100px;
+	margin-top:50px;
+	padding-left:70px;
+	background-color:lightpink;
+}
+.icons4
+{
+	border-radius:100px;
+	margin-top:50px;
+	padding-left:70px;
+	background-color:orange;
+}
+#11
+{
+	text-align:center;
+	letter-spacing:2px;
+	color:white;
+	font-family:sans-serif;
+}
+.layer0
+{
+	text-align:center;
+	color:white;
+}
+.layer3
+{
+	background-color:salmon;
+}
+.layer1 img{
+	border:2px solid;
+	border-radius:50%;
+	margin:100px auto 30px;
+	border-color:green;
+	color:green;
+	background-color:lightgreen;
+}
+
+.footer h1{
+	margin:10px;
+}
+.footer p
+{
+	text-align:center;
+}
+.sam
+{
+text-align:center;
+background-color:whitex;
+}
+.feed
+{
+	background-color:pink;
+}
+.feed p
+{
+	text-align:center;
+	text-shadow:20px;
+	color:green;
+}
+.back
+{
+	padding-left:500px;
+}
+

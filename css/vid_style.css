@@ -1,0 +1,124 @@
+.body
+{
+	margin:0;
+}
+
+.main
+{
+	background-image:url("images/hd_5.jpg");
+	background-repeat:no-repeat;
+	background-size:100%;
+	padding-bottom:500px;
+	background-position:relative;
+}
+
+
+.head p 
+{
+	text-align:center;
+	color:white;
+	font-size:10px;
+	
+	background:grey;
+	width:500px;
+	margin:0px auto 0 30px;
+	font-size:40px;
+}
+.topic
+{
+	background-image:url("images/hd_4.jpg");
+	background-position:absolute;
+}
+.row1 h1
+{
+	text-align:center;
+	margin-top:100px;
+}
+.row1 a
+{
+	text-align:center;
+	text-decoration:none;
+}
+.row1 p
+{
+	text-align:center;
+	margin-top:150px;
+}
+.row2 h1
+{
+	text-align:center;
+	margin-top:100px;
+}
+.row2 p
+{
+	text-align:center;
+	margin-top:150px;
+}
+.row3 h1
+{
+	text-align:center;
+	margin-top:100px;
+}
+.row3 p
+{
+	text-align:center;
+	margin-top:150px;
+}
+
+.top
+{
+	background-image:url("images/hd_4.jpg");
+	background-size:100%;
+	padding-bottom:500px ;
+	background-repeat:no-repeat;
+	background-position:relative;
+}
+.tutorial
+{
+	background-image:url("images/hd_3.jpg");
+	background-size:100%;
+	background-position:absolute;
+}
+.row_1
+{
+	padding-bottom:400px;
+	background-color:lightyellow;
+}
+.row_2
+{
+	padding-bottom:400px;
+	background-color:lightblue;
+}
+.row_3
+{
+	padding-bottom:400px;
+	background-color:lightgreen;
+}
+.css_top
+{
+	background-image:url("images/hd_7.jpg");
+	background-size:100%;
+	padding-bottom:600px;
+	background-position:relative;
+}
+.css_tutorial
+{
+	background-image:url("images/hd_7.jpg");
+	background-size:100%;
+}
+.css_row_1
+{
+	padding-bottom:500px;
+}
+.css_row_2
+{
+	padding-bottom:500px;
+}
+.css_top p
+{
+	padding:10px 0;
+	text-align:center;
+	font-size:40px;
+	color:orange;
+	letter-spacing:2px;
+}
